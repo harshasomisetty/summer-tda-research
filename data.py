@@ -8,4 +8,4 @@ def save_data(data, location):
     data.to_csv(location)
 
 def load_data(location):
-    return pd.csv(location)
+    return pd.read_csv(location)
