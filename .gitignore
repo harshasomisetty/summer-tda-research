@@ -1,4 +1,5 @@
 data/*
+notebooks/orderflow_data/*
 *pycache*
 .DS_Store
 norm_data.npy
