@@ -3,3 +3,4 @@ data/*
 .DS_Store
 norm_data.npy
 config.py
+concurrent.json
