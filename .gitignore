@@ -2,3 +2,4 @@ data/*
 *pycache*
 .DS_Store
 norm_data.npy
+config.py
